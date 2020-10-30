@@ -1,0 +1,12 @@
+﻿  Using triplet "x64-windows" from "C:\Users\Landon\source\vcpkg\installed\x64-windows\"
+  VingtEtUnCard.cpp
+  VingtEtUnDeck.cpp
+  VingtEtUnHand.cpp
+  main.cpp
+  VingtEtUn.cpp
+F:\BlackJackRepo\BlackJack\BlackJack\VingtEtUn.cpp(652,91): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\BlackJackRepo\BlackJack\BlackJack\VingtEtUn.cpp(674,90): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  VingtEtUnDealer.cpp
+  VingtEtUnPlayer.cpp
+  Generating Code...
+  BlackJack.vcxproj -> F:\BlackJackRepo\BlackJack\x64\Debug\BlackJack.exe
