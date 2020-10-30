@@ -1,2 +1,2 @@
 # BlackJackRepo
- A simple, multiplayer console BlackJack Game
+ A multiplayer console BlackJack Game
